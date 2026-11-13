@@ -4,7 +4,6 @@ An immersive, scroll-driven WebGL portfolio for **Prajwal Poojary** — AIML eng
 
 The site is a single continuous 3D world, not a stack of sections. Scrolling moves a camera through nine connected chapters, each with its own environment, lighting mood and interactive objects.
 
----
 
 ## Stack
 
